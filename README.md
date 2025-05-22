@@ -1,4 +1,7 @@
 # 🧠 StreetViewColorClusters
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 Analyze and visualize color perception patterns from urban street view images using clustering and visual analytics.
 
